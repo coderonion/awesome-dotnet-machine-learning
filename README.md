@@ -21,8 +21,6 @@
     - [Face Recognition](#face-recognition)
     - [Object Detection](#object-detection)
  
-  
-
 
 - ## Framework
 
@@ -51,10 +49,9 @@
   - [xin-pu/Machine-Learning](https://github.com/xin-pu/Machine-Learning) <img src="https://img.shields.io/github/stars/xin-pu/Machine-Learning?style=social"/> : Deep learning Tool by C#.
 
 
-
 - ## Tutorial
 
-  - [ML.NET 开放源代码的跨平台机器学习框架](https://dotnet.microsoft.com/zh-cn/apps/machinelearning-ai/ml-dotnet)
+  - [Microsoft ML.NET](https://dotnet.microsoft.com/en-us/apps/machinelearning-ai/ml-dotnet) : ML.NET An open source and cross-platform machine learning framework. ML.NET 开放源代码的跨平台机器学习框架。
 
   - [Hands-On-Machine-Learning-With-ML.NET](https://github.com/PacktPublishing/Hands-On-Machine-Learning-With-ML.NET) <img src="https://img.shields.io/github/stars/PacktPublishing/Hands-On-Machine-Learning-With-ML.NET?style=social"/> : Hands-On Machine Learning with ML.NET, published by Packt.
 
@@ -62,7 +59,6 @@
 
 
 - ## Library
-
 
   - ### CUDA Integration 
 
@@ -74,14 +70,14 @@
 
     - [ManagedCUDA](https://github.com/kunzmi/managedCuda) <img src="https://img.shields.io/github/stars/kunzmi/managedCuda?style=social"/> : ManagedCUDA aims an easy integration of NVidia's CUDA in .net applications written in C#, Visual Basic or any other .net language. 
 
+
   - ### Image Processing
 
     - [OpenCvSharp](https://github.com/shimat/opencvsharp) <img src="https://img.shields.io/github/stars/shimat/opencvsharp?style=social"/> : OpenCV wrapper for .NET. 
 
-    - [SharpCV](https://github.com/SciSharp/SharpCV) <img src="https://img.shields.io/github/stars/SciSharp/SharpCV?style=social"/> : A Computer Vision library for C# and F# that combines OpenCV and NDArray together in .NET Standard. 
-
     - [ImageSharp](https://github.com/SixLabors/ImageSharp) <img src="https://img.shields.io/github/stars/SixLabors/ImageSharp?style=social"/> : ImageSharp is a new, fully featured, fully managed, cross-platform, 2D graphics API. 
 
+    - [SharpCV](https://github.com/SciSharp/SharpCV) <img src="https://img.shields.io/github/stars/SciSharp/SharpCV?style=social"/> : A Computer Vision library for C# and F# that combines OpenCV and NDArray together in .NET Standard. 
 
 
   - ### Numerical Computation
@@ -105,21 +101,17 @@
     - [Pandas.NET](https://github.com/SciSharp/Pandas.NET) <img src="https://img.shields.io/github/stars/SciSharp/Pandas.NET?style=social"/> : Pandas port for C# and F#, data analysis tool, process multi-dim array in DataFrame. 
 
 
-
   - ### Data Visualization
+
+    - [LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) <img src="https://img.shields.io/github/stars/beto-rodriguez/LiveCharts2?style=social"/> : Simple, flexible, interactive & powerful charts, maps and gauges for .Net, LiveCharts2 can now practically run everywhere Maui, Uno Platform, Blazor-wasm, WPF, WinForms, Xamarin, Avalonia, WinUI, UWP. 
+
+     - [OxyPlot](https://github.com/oxyplot/oxyplot) <img src="https://img.shields.io/github/stars/oxyplot/oxyplot?style=social"/> : OxyPlot is a cross-platform plotting library for .NET.
+
+    - [ScottPlot](https://github.com/ScottPlot/ScottPlot) <img src="https://img.shields.io/github/stars/ScottPlot/ScottPlot?style=social"/> : ScottPlot is a free and open-source plotting library for .NET that makes it easy to interactively display large datasets.
 
     - [Plotly.NET](https://github.com/plotly/Plotly.NET) <img src="https://img.shields.io/github/stars/plotly/Plotly.NET?style=social"/> : Plotly.NET provides functions for generating and rendering plotly.js charts in .NET programming languages 📈🚀.
 
-    - [OxyPlot](https://github.com/oxyplot/oxyplot) <img src="https://img.shields.io/github/stars/oxyplot/oxyplot?style=social"/> : OxyPlot is a cross-platform plotting library for .NET.
-
-    - [ScottPlot](https://github.com/ScottPlot/ScottPlot) <img src="https://img.shields.io/github/stars/ScottPlot/ScottPlot?style=social"/> : ScottPlot is a free and open-source plotting library for .NET that makes it easy to interactively display large datasets. 
-
-    - [LiveCharts](https://github.com/Live-Charts/Live-Charts) <img src="https://img.shields.io/github/stars/Live-Charts/Live-Charts?style=social"/> : Simple, flexible, interactive & powerful charts, maps and gauges for .Net  
-
-    - [LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) <img src="https://img.shields.io/github/stars/beto-rodriguez/LiveCharts2?style=social"/> : Simple, flexible, interactive & powerful charts, maps and gauges for .Net, LiveCharts2 can now practically run everywhere Maui, Uno Platform, Blazor-wasm, WPF, WinForms, Xamarin, Avalonia, WinUI, UWP.  
-
     - [swharden/Csharp-Data-Visualization](https://github.com/swharden/Csharp-Data-Visualization) <img src="https://img.shields.io/github/stars/swharden/Csharp-Data-Visualization?style=social"/> : Resources for visualizing data using C# and the .NET platform.
-
 
 
 
