@@ -1,14 +1,27 @@
 # Awesome-Dotnet-Machine-Learning
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-🔥🔥🔥 This repository lists some awesome public machine learning framework and applications for .NET.
+🔥🔥🔥 This repository lists some awesome public machine learning framework, tutorial, blogs, library and applications for .NET.
 
 ## Contents
 - [Awesome-Dotnet-Machine-Learning](#awesome-dotnet-machine-learning)
   - [Framework](#framework)
+  - [Tutorial](#tutorial)
   - [Library](#library)
+    - [CUDA Integration](#cuda-integration)
+    - [Image Processing](#image-processing)
+    - [Numerical Computation](#numerical-computation)
+    - [Linear Algebra](#linear-algebra)
+    - [Data Analysis](#data-analysis)
+    - [Data Visualization](#data-visualizations)
   - [Applications](#applications)
+    - [Chatbot Platform](#chatbot-platform)
+    - [Simulation Engine](#simulation-engine)
+    - [Image Classification](#image-classification)
+    - [Face Recognition](#face-recognition)
     - [Object Detection](#object-detection)
+ 
+  
 
 
 - ## Framework
@@ -17,23 +30,96 @@
 
   - [TorchSharp](https://github.com/dotnet/TorchSharp) <img src="https://img.shields.io/github/stars/dotnet/TorchSharp?style=social"/> : A .NET library that provides access to the library that powers PyTorch.    
 
-  - [SciSharp/Torch.NET](https://github.com/SciSharp/Torch.NET) <img src="https://img.shields.io/github/stars/SciSharp/Torch.NET?style=social"/> : .NET bindings for PyTorch. Machine Learning with C# / F# with Multi-GPU/CPU support.
-
-  - [SciSharp/TensorFlow.NET](https://github.com/SciSharp/TensorFlow.NET) <img src="https://img.shields.io/github/stars/SciSharp/TensorFlow.NET?style=social"/> : .NET Standard bindings for Google's TensorFlow for developing, training and deploying Machine Learning models in C# and F#.     
-
-  - [SciSharp/Keras.NET](https://github.com/SciSharp/Keras.NET) <img src="https://img.shields.io/github/stars/SciSharp/Keras.NET?style=social"/> : Keras.NET is a high-level neural networks API for C# and F#, with Python Binding and capable of running on top of TensorFlow, CNTK, or Theano. 
-
-  - [deepakkumar1984/MxNet.Sharp](https://github.com/deepakkumar1984/MxNet.Sharp) <img src="https://img.shields.io/github/stars/deepakkumar1984/MxNet.Sharp?style=social"/> : .NET Standard bindings for Apache MxNet with Imperative, Symbolic and Gluon Interface for developing, training and deploying Machine Learning models in C#. 
-
-  - [harujoh/KelpNet](https://github.com/harujoh/KelpNet) <img src="https://img.shields.io/github/stars/harujoh/KelpNet?style=social"/> : Pure C# machine learning framework.
+  - [KelpNet](https://github.com/harujoh/KelpNet) <img src="https://img.shields.io/github/stars/harujoh/KelpNet?style=social"/> : KelpNet : Pure C# machine learning framework.
     
-  - [jdermody/brightwire](https://github.com/jdermody/brightwire) <img src="https://img.shields.io/github/stars/jdermody/brightwire?style=social"/> : Bright Wire is an open source machine learning library for .NET with GPU support (via CUDA).
+  - [Bright Wire](https://github.com/jdermody/brightwire) <img src="https://img.shields.io/github/stars/jdermody/brightwire?style=social"/> : Bright Wire is an open source machine learning library for .NET with GPU support (via CUDA).
 
+  - [MyCaffe](https://github.com/MyCaffe/MyCaffe) <img src="https://img.shields.io/github/stars/MyCaffe/MyCaffe?style=social"/> : A complete deep learning platform written almost entirely in C# for Windows developers! Now you can write your own layers in C#! 
+
+  - [SharpNet](https://github.com/FranckZibi/SharpNet) <img src="https://img.shields.io/github/stars/FranckZibi/SharpNet?style=social"/> : Open-source Deep Learning library in C# with CUDA and BLAS support.
+
+  - [Torch.NET](https://github.com/SciSharp/Torch.NET) <img src="https://img.shields.io/github/stars/SciSharp/Torch.NET?style=social"/> : .NET bindings for PyTorch. Machine Learning with C# / F# with Multi-GPU/CPU support.
+
+  - [TensorFlow.NET](https://github.com/SciSharp/TensorFlow.NET) <img src="https://img.shields.io/github/stars/SciSharp/TensorFlow.NET?style=social"/> : .NET Standard bindings for Google's TensorFlow for developing, training and deploying Machine Learning models in C# and F#.     
+
+  - [Keras.NET](https://github.com/SciSharp/Keras.NET) <img src="https://img.shields.io/github/stars/SciSharp/Keras.NET?style=social"/> : Keras.NET is a high-level neural networks API for C# and F#, with Python Binding and capable of running on top of TensorFlow, CNTK, or Theano. 
+
+  - [MxNet.Sharp](https://github.com/deepakkumar1984/MxNet.Sharp) <img src="https://img.shields.io/github/stars/deepakkumar1984/MxNet.Sharp?style=social"/> : .NET Standard bindings for Apache MxNet with Imperative, Symbolic and Gluon Interface for developing, training and deploying Machine Learning models in C#. 
+
+  - [ConvNetSharp](https://github.com/cbovar/ConvNetSharp) <img src="https://img.shields.io/github/stars/cbovar/ConvNetSharp?style=social"/> : Started initially as C# port of [ConvNetJS](https://github.com/karpathy/convnetjs). You can use ConvNetSharp to train and evaluate convolutional neural networks (CNN).
+
+  - [xin-pu/Machine-Learning](https://github.com/xin-pu/Machine-Learning) <img src="https://img.shields.io/github/stars/xin-pu/Machine-Learning?style=social"/> : Deep learning Tool by C#.
+
+
+
+- ## Tutorial
+
+  - [ML.NET 开放源代码的跨平台机器学习框架](https://dotnet.microsoft.com/zh-cn/apps/machinelearning-ai/ml-dotnet)
+
+  - [Hands-On-Machine-Learning-With-ML.NET](https://github.com/PacktPublishing/Hands-On-Machine-Learning-With-ML.NET) <img src="https://img.shields.io/github/stars/PacktPublishing/Hands-On-Machine-Learning-With-ML.NET?style=social"/> : Hands-On Machine Learning with ML.NET, published by Packt.
+
+  - [jeffprosise/ML.NET](https://github.com/jeffprosise/ML.NET) <img src="https://img.shields.io/github/stars/jeffprosise/ML.NET?style=social"/> : Code samples utilizing Microsoft's ML.NET machine-learning library.
 
 
 - ## Library
 
-  - [SciSharp/Numpy.NET](https://github.com/SciSharp/Numpy.NET) <img src="https://img.shields.io/github/stars/SciSharp/Numpy.NET?style=social"/> : C#/F# bindings for NumPy - a fundamental library for scientific computing, machine learning and AI.
+
+  - ### CUDA Integration 
+
+    - [ComputeSharp](https://github.com/Sergio0694/ComputeSharp) <img src="https://img.shields.io/github/stars/Sergio0694/ComputeSharp?style=social"/> : A .NET library to run C# code in parallel on the GPU through DX12, D2D1 and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
+
+    - [ILGPU](https://github.com/m4rs-mt/ILGPU) <img src="https://img.shields.io/github/stars/m4rs-mt/ILGPU?style=social"/> : ILGPU is a JIT (just-in-time) compiler for high-performance GPU programs written in .Net-based languages. 
+
+    - [Barracuda](https://github.com/Unity-Technologies/barracuda-release) <img src="https://img.shields.io/github/stars/Unity-Technologies/barracuda-release?style=social"/> : Unity Barracuda is a lightweight cross-platform Neural Networks inference library for Unity. Barracuda can run Neural Networks both on GPU and CPU.
+
+    - [ManagedCUDA](https://github.com/kunzmi/managedCuda) <img src="https://img.shields.io/github/stars/kunzmi/managedCuda?style=social"/> : ManagedCUDA aims an easy integration of NVidia's CUDA in .net applications written in C#, Visual Basic or any other .net language. 
+
+  - ### Image Processing
+
+    - [OpenCvSharp](https://github.com/shimat/opencvsharp) <img src="https://img.shields.io/github/stars/shimat/opencvsharp?style=social"/> : OpenCV wrapper for .NET. 
+
+    - [SharpCV](https://github.com/SciSharp/SharpCV) <img src="https://img.shields.io/github/stars/SciSharp/SharpCV?style=social"/> : A Computer Vision library for C# and F# that combines OpenCV and NDArray together in .NET Standard. 
+
+    - [ImageSharp](https://github.com/SixLabors/ImageSharp) <img src="https://img.shields.io/github/stars/SixLabors/ImageSharp?style=social"/> : ImageSharp is a new, fully featured, fully managed, cross-platform, 2D graphics API. 
+
+
+
+  - ### Numerical Computation
+
+    - [Math.NET Numerics](https://github.com/mathnet/mathnet-numerics) <img src="https://img.shields.io/github/stars/mathnet/mathnet-numerics?style=social"/> : Math.NET Numerics is the numerical foundation of the Math.NET initiative, aiming to provide methods and algorithms for numerical computations in science, engineering and every day use. 
+
+
+  - ### Linear Algebra
+
+    - [AngouriMath](https://github.com/asc-community/AngouriMath) <img src="https://img.shields.io/github/stars/asc-community/AngouriMath?style=social"/> : New open-source cross-platform symbolic algebra library for C# and F#. Can be used for both production and research purposes. 
+
+    - [Numpy.NET](https://github.com/SciSharp/Numpy.NET) <img src="https://img.shields.io/github/stars/SciSharp/Numpy.NET?style=social"/> : C#/F# bindings for NumPy - a fundamental library for scientific computing, machine learning and AI.
+
+    - [NumSharp](https://github.com/SciSharp/NumSharp) <img src="https://img.shields.io/github/stars/SciSharp/NumSharp?style=social"/> : High Performance Computation for N-D Tensors in .NET, similar API to NumPy. 
+
+
+  - ### Data Analysis
+
+    - [Deedle](https://github.com/fslaborg/Deedle) <img src="https://img.shields.io/github/stars/fslaborg/Deedle?style=social"/> : Deedle is an easy to use library for data and time series manipulation and for scientific programming.
+
+    - [Pandas.NET](https://github.com/SciSharp/Pandas.NET) <img src="https://img.shields.io/github/stars/SciSharp/Pandas.NET?style=social"/> : Pandas port for C# and F#, data analysis tool, process multi-dim array in DataFrame. 
+
+
+
+  - ### Data Visualization
+
+    - [Plotly.NET](https://github.com/plotly/Plotly.NET) <img src="https://img.shields.io/github/stars/plotly/Plotly.NET?style=social"/> : Plotly.NET provides functions for generating and rendering plotly.js charts in .NET programming languages 📈🚀.
+
+    - [OxyPlot](https://github.com/oxyplot/oxyplot) <img src="https://img.shields.io/github/stars/oxyplot/oxyplot?style=social"/> : OxyPlot is a cross-platform plotting library for .NET.
+
+    - [ScottPlot](https://github.com/ScottPlot/ScottPlot) <img src="https://img.shields.io/github/stars/ScottPlot/ScottPlot?style=social"/> : ScottPlot is a free and open-source plotting library for .NET that makes it easy to interactively display large datasets. 
+
+    - [LiveCharts](https://github.com/Live-Charts/Live-Charts) <img src="https://img.shields.io/github/stars/Live-Charts/Live-Charts?style=social"/> : Simple, flexible, interactive & powerful charts, maps and gauges for .Net  
+
+    - [LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) <img src="https://img.shields.io/github/stars/beto-rodriguez/LiveCharts2?style=social"/> : Simple, flexible, interactive & powerful charts, maps and gauges for .Net, LiveCharts2 can now practically run everywhere Maui, Uno Platform, Blazor-wasm, WPF, WinForms, Xamarin, Avalonia, WinUI, UWP.  
+
+    - [swharden/Csharp-Data-Visualization](https://github.com/swharden/Csharp-Data-Visualization) <img src="https://img.shields.io/github/stars/swharden/Csharp-Data-Visualization?style=social"/> : Resources for visualizing data using C# and the .NET platform.
+
 
 
 
@@ -42,14 +128,26 @@
 
   - ### Chatbot Platform 
 
-    - [SciSharp/BotSharp](https://github.com/SciSharp/BotSharp) <img src="https://img.shields.io/github/stars/SciSharp/BotSharp?style=social"/> : The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm. 
+    - [BotSharp](https://github.com/SciSharp/BotSharp) <img src="https://img.shields.io/github/stars/SciSharp/BotSharp?style=social"/> : The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm. 
 
 
   - ### Simulation Engine
 
     - [ML-Agents](https://github.com/Unity-Technologies/ml-agents) <img src="https://img.shields.io/github/stars/Unity-Technologies/ml-agents?style=social"/> : The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning. 
 
+    - [SVL Simulator](https://github.com/lgsvl/simulator) <img src="https://img.shields.io/github/stars/lgsvl/simulator?style=social"/> : SVL Simulator: An Autonomous Vehicle Simulator. A ROS/ROS2 Multi-robot Simulator for Autonomous Vehicles. 
+
     - [NatML](https://github.com/natmlx/NatML) <img src="https://img.shields.io/github/stars/natmlx/NatML?style=social"/> : High performance, cross-platform machine learning for Unity Engine. 
+
+
+  - ### Image Classification
+
+    - [doughtmw/HoloLens2-Machine-Learning](https://github.com/doughtmw/HoloLens2-Machine-Learning) <img src="https://img.shields.io/github/stars/doughtmw/HoloLens2-Machine-Learning?style=social"/> : Using deep learning models for image classification directly on the HoloLens 2. 
+
+
+  - ### Face Recognition 
+
+    - [takuya-takeuchi/FaceRecognitionDotNet](https://github.com/takuya-takeuchi/FaceRecognitionDotNet) <img src="https://img.shields.io/github/stars/takuya-takeuchi/FaceRecognitionDotNet?style=social"/> : The world's simplest facial recognition api for .NET on Windows, MacOS and Linux.
 
 
   - ### Object Detection
@@ -105,3 +203,17 @@
     - [MaikoKingma/yolo-winforms-test](https://github.com/MaikoKingma/yolo-winforms-test) <img src="https://img.shields.io/github/stars/MaikoKingma/yolo-winforms-test?style=social"/> : A Windows forms application that can execute pre-trained object detection models via ML.NET. In this instance the You Only Look Once version 4 (yolov4) is used.
 
     - [Soju06/yolov5-annotation-viewer](https://github.com/Soju06/yolov5-annotation-viewer) <img src="https://img.shields.io/github/stars/Soju06/yolov5-annotation-viewer?style=social"/> : yolov5 annotation viewer.
+  
+    - [cj-mills/Unity-OpenVINO-YOLOX](https://github.com/cj-mills/Unity-OpenVINO-YOLOX) <img src="https://img.shields.io/github/stars/cj-mills/Unity-OpenVINO-YOLOX?style=social"/> : This tutorial series covers how to run the [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) object detection model in the Unity game engine with the OpenVINO™ Toolkit.
+  
+    - [SeanAnd/WebcamObjectDetection](https://github.com/SeanAnd/WebcamObjectDetection) <img src="https://img.shields.io/github/stars/SeanAnd/WebcamObjectDetection?style=social"/> : YOLO object detection using webcam in winforms.
+
+    - [Devmawi/BlazorObjectDetection-Sample](https://github.com/Devmawi/BlazorObjectDetection-Sample) <img src="https://img.shields.io/github/stars/Devmawi/BlazorObjectDetection-Sample?style=social"/> : Simple project for demonstrating how to embed a continuously object detection with Yolo on a video in a hybrid Blazor app (WebView2).
+
+    - [0Kirby/ThrowObjectDetectionWinUI](https://github.com/0Kirby/ThrowObjectDetectionWinUI) <img src="https://img.shields.io/github/stars/0Kirby/ThrowObjectDetectionWinUI?style=social"/> : 高空抛物检测的WinUI实现。
+
+    - [wojciechp6/YOLO-UnityBarracuda](https://github.com/wojciechp6/YOLO-UnityBarracuda) <img src="https://img.shields.io/github/stars/wojciechp6/YOLO-UnityBarracuda?style=social"/> : Object detection app build on Unity Barracuda and YOLOv2 Tiny.
+
+    - [davide-cas/HoloHelp](https://github.com/davide-cas/HoloHelp) <img src="https://img.shields.io/github/stars/davide-cas/HoloHelp?style=social"/> : HoloHelp: HoloLens Object Detection for a Guided Interaction.
+
+    - [quangdungluong/object-detection-form](https://github.com/quangdungluong/object-detection-form) <img src="https://img.shields.io/github/stars/quangdungluong/object-detection-form?style=social"/> : YOLOv5 using ML.Net, C# and WinForm.
