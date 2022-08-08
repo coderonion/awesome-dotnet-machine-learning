@@ -8,16 +8,17 @@
   - [Framework](#framework)
   - [Tutorial](#tutorial)
   - [Library](#library)
-    - [CUDA Integration](#cuda-integration)
+    - [GPU Integration](#gpu-integration)
     - [Image Processing](#image-processing)
     - [Numerical Computation](#numerical-computation)
     - [Linear Algebra](#linear-algebra)
     - [Data Analysis](#data-analysis)
     - [Data Visualization](#data-visualizations)
   - [Applications](#applications)
-    - [Chatbot Platform](#chatbot-platform)
     - [Simulation Engine](#simulation-engine)
-    - [Image Classification](#image-classification)
+    - [Chatbot Platform](#chatbot-platform)
+    - [Natural Language Processing](#natural-language-processing)
+    - [Object Classification](#object-classification)
     - [Face Recognition](#face-recognition)
     - [Object Detection](#object-detection)
  
@@ -48,19 +49,42 @@
 
   - [xin-pu/Machine-Learning](https://github.com/xin-pu/Machine-Learning) <img src="https://img.shields.io/github/stars/xin-pu/Machine-Learning?style=social"/> : Deep learning Tool by C#.
 
+  - [DlibDotNet](https://github.com/takuya-takeuchi/DlibDotNet) <img src="https://img.shields.io/github/stars/takuya-takeuchi/DlibDotNet?style=social"/> : Dlib .NET wrapper written in C++ and C# for Windows, MacOS, Linux and iOS.
+
+  - [LibSvmDotNet](https://github.com/takuya-takeuchi/LibSvmDotNet) <img src="https://img.shields.io/github/stars/takuya-takeuchi/LibSvmDotNet?style=social"/> : .NET wrapper for LIBSVM written in C#.
+
+  - [System.AI](https://github.com/ColorfulSoft/System.AI) <img src="https://img.shields.io/github/stars/ColorfulSoft/System.AI?style=social"/> : Machine Learning and Data Analysis stack for .NET ecosystem.
+
+  - [DeOldify.NET](https://github.com/ColorfulSoft/DeOldify.NET) <img src="https://img.shields.io/github/stars/ColorfulSoft/DeOldify.NET?style=social"/> : C# implementation of Jason Antic's DeOldify.
+
+  - [DiffSharp](https://github.com/DiffSharp/DiffSharp) <img src="https://img.shields.io/github/stars/DiffSharp/DiffSharp?style=social"/> : DiffSharp: Differentiable Functional Programming.
+
+  - [NeuralNetwork.NET](https://github.com/Sergio0694/NeuralNetwork.NET) <img src="https://img.shields.io/github/stars/Sergio0694/NeuralNetwork.NET?style=social"/> : NeuralNetwork.NET is a .NET Standard 2.0 library that implements sequential and computation graph neural networks with customizable layers, built from scratch with C#.
+
+
 
 - ## Tutorial
 
+  - [Microsoft AI Lab](https://github.com/microsoft/ailab) <img src="https://img.shields.io/github/stars/microsoft/ailab?style=social"/> : Experience, Learn and Code the latest breakthrough innovations with Microsoft AI.
+
   - [Microsoft ML.NET](https://dotnet.microsoft.com/en-us/apps/machinelearning-ai/ml-dotnet) : ML.NET An open source and cross-platform machine learning framework. ML.NET 开放源代码的跨平台机器学习框架。
+
+  - [ML.NET Samples](https://github.com/dotnet/machinelearning-samples) <img src="https://img.shields.io/github/stars/dotnet/machinelearning-samples?style=social"/> : Samples for ML.NET, an open source and cross-platform machine learning framework for .NET.  
+
+  - [TorchSharp Examples](https://github.com/dotnet/TorchSharpExamples) <img src="https://img.shields.io/github/stars/dotnet/TorchSharpExamples?style=social"/> : Repository for TorchSharp examples and tutorials. 
 
   - [Hands-On-Machine-Learning-With-ML.NET](https://github.com/PacktPublishing/Hands-On-Machine-Learning-With-ML.NET) <img src="https://img.shields.io/github/stars/PacktPublishing/Hands-On-Machine-Learning-With-ML.NET?style=social"/> : Hands-On Machine Learning with ML.NET, published by Packt.
 
   - [jeffprosise/ML.NET](https://github.com/jeffprosise/ML.NET) <img src="https://img.shields.io/github/stars/jeffprosise/ML.NET?style=social"/> : Code samples utilizing Microsoft's ML.NET machine-learning library.
 
 
+
+
 - ## Library
 
-  - ### CUDA Integration 
+  - ### GPU Integration 
+
+    - [Silk.NET](https://github.com/dotnet/Silk.NET) <img src="https://img.shields.io/github/stars/dotnet/Silk.NET?style=social"/> : The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, and DirectX bindings library your mother warned you about. 
 
     - [ComputeSharp](https://github.com/Sergio0694/ComputeSharp) <img src="https://img.shields.io/github/stars/Sergio0694/ComputeSharp?style=social"/> : A .NET library to run C# code in parallel on the GPU through DX12, D2D1 and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
 
@@ -83,6 +107,8 @@
   - ### Numerical Computation
 
     - [Math.NET Numerics](https://github.com/mathnet/mathnet-numerics) <img src="https://img.shields.io/github/stars/mathnet/mathnet-numerics?style=social"/> : Math.NET Numerics is the numerical foundation of the Math.NET initiative, aiming to provide methods and algorithms for numerical computations in science, engineering and every day use. 
+
+    - [Math.NET Filtering](https://github.com/mathnet/mathnet-filtering) <img src="https://img.shields.io/github/stars/mathnet/mathnet-filtering?style=social"/> : Math.NET Filtering is a digital signal processing toolkit, offering an infrastructure for digital filter design, applying those filters to data streams using data converters, as well as digital signal generators. 
 
 
   - ### Linear Algebra
@@ -117,12 +143,6 @@
 
 - ## Applications
 
-
-  - ### Chatbot Platform 
-
-    - [BotSharp](https://github.com/SciSharp/BotSharp) <img src="https://img.shields.io/github/stars/SciSharp/BotSharp?style=social"/> : The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm. 
-
-
   - ### Simulation Engine
 
     - [ML-Agents](https://github.com/Unity-Technologies/ml-agents) <img src="https://img.shields.io/github/stars/Unity-Technologies/ml-agents?style=social"/> : The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning. 
@@ -131,15 +151,37 @@
 
     - [NatML](https://github.com/natmlx/NatML) <img src="https://img.shields.io/github/stars/natmlx/NatML?style=social"/> : High performance, cross-platform machine learning for Unity Engine. 
 
+  - ### Chatbot Platform 
 
-  - ### Image Classification
+    - [BotSharp](https://github.com/SciSharp/BotSharp) <img src="https://img.shields.io/github/stars/SciSharp/BotSharp?style=social"/> : The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm. 
+
+
+  - ### Natural Language Processing
+
+    - [PolarisAI](https://github.com/MeiFagundes/PolarisAI) <img src="https://img.shields.io/github/stars/MeiFagundes/PolarisAI?style=social"/> : Personal Assistant Engine built with ML.NET. 
+
+    - [Stanford.NLP.NET](https://github.com/sergey-tihon/Stanford.NLP.NET) <img src="https://img.shields.io/github/stars/sergey-tihon/Stanford.NLP.NET?style=social"/> : Stanford NLP for .NET. 
+
+
+
+
+  - ### Object Classification
 
     - [doughtmw/HoloLens2-Machine-Learning](https://github.com/doughtmw/HoloLens2-Machine-Learning) <img src="https://img.shields.io/github/stars/doughtmw/HoloLens2-Machine-Learning?style=social"/> : Using deep learning models for image classification directly on the HoloLens 2. 
+
+    - [NsfwSpy](https://github.com/d00ML0rDz/NsfwSpy) <img src="https://img.shields.io/github/stars/d00ML0rDz/NsfwSpy?style=social"/> : A .NET image and video classifier used to identify explicit/pornographic content written in C#.  
+
+    - [ClassifyBot](https://github.com/allisterb/ClassifyBot) <img src="https://img.shields.io/github/stars/allisterb/ClassifyBot?style=social"/> : ClassifyBot is an open-source cross-platform .NET library that tries to automate and make reproducible the steps needed to create machine learning pipelines for object classification using different open-source ML and NLP components. 
+
 
 
   - ### Face Recognition 
 
     - [takuya-takeuchi/FaceRecognitionDotNet](https://github.com/takuya-takeuchi/FaceRecognitionDotNet) <img src="https://img.shields.io/github/stars/takuya-takeuchi/FaceRecognitionDotNet?style=social"/> : The world's simplest facial recognition api for .NET on Windows, MacOS and Linux.
+
+    - [FaceONNX](https://github.com/FaceONNX/FaceONNX) <img src="https://img.shields.io/github/stars/FaceONNX/FaceONNX?style=social"/> : Face analytics library based on deep neural networks and ONNX runtime. 
+
+
 
 
   - ### Object Detection
@@ -209,3 +251,5 @@
     - [davide-cas/HoloHelp](https://github.com/davide-cas/HoloHelp) <img src="https://img.shields.io/github/stars/davide-cas/HoloHelp?style=social"/> : HoloHelp: HoloLens Object Detection for a Guided Interaction.
 
     - [quangdungluong/object-detection-form](https://github.com/quangdungluong/object-detection-form) <img src="https://img.shields.io/github/stars/quangdungluong/object-detection-form?style=social"/> : YOLOv5 using ML.Net, C# and WinForm.
+
+    - [vladkol/CustomVision.COCO](https://github.com/vladkol/CustomVision.COCO) <img src="https://img.shields.io/github/stars/vladkol/CustomVision.COCO?style=social"/> : Traning Azure [Custom Vision](https://www.customvision.ai/) projects using [COCO](https://cocodataset.org/) dataset.
