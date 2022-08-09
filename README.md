@@ -89,6 +89,8 @@
 
     - [Silk.NET](https://github.com/dotnet/Silk.NET) <img src="https://img.shields.io/github/stars/dotnet/Silk.NET?style=social"/> : The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, and DirectX bindings library your mother warned you about. 
 
+    - [OpenTK](https://github.com/opentk/opentk) <img src="https://img.shields.io/github/stars/opentk/opentk?style=social"/> : The Open Toolkit library is a fast, low-level C# wrapper for OpenGL, OpenAL & OpenCL. It also includes windowing, mouse, keyboard and joystick input and a robust and fast math library, giving you everything you need to write your own renderer or game engine. OpenTK can be used standalone or inside a GUI on Windows, Linux, Mac. 
+
     - [ComputeSharp](https://github.com/Sergio0694/ComputeSharp) <img src="https://img.shields.io/github/stars/Sergio0694/ComputeSharp?style=social"/> : A .NET library to run C# code in parallel on the GPU through DX12, D2D1 and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
 
     - [ILGPU](https://github.com/m4rs-mt/ILGPU) <img src="https://img.shields.io/github/stars/m4rs-mt/ILGPU?style=social"/> : ILGPU is a JIT (just-in-time) compiler for high-performance GPU programs written in .Net-based languages. 
