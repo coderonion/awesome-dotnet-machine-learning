@@ -61,6 +61,9 @@
 
   - [NeuralNetwork.NET](https://github.com/Sergio0694/NeuralNetwork.NET) <img src="https://img.shields.io/github/stars/Sergio0694/NeuralNetwork.NET?style=social"/> : NeuralNetwork.NET is a .NET Standard 2.0 library that implements sequential and computation graph neural networks with customizable layers, built from scratch with C#.
 
+  - [AForge.NET](https://github.com/andrewkirillov/AForge.NET) <img src="https://img.shields.io/github/stars/andrewkirillov/AForge.NET?style=social"/> : AForge.NET Framework is a C# framework designed for developers and researchers in the fields of Computer Vision and Artificial Intelligence - image processing, neural networks, genetic algorithms, machine learning, robotics, etc. http://www.aforgenet.com/framework/
+
+  - [Accord.NET](https://github.com/accord-net/framework) <img src="https://img.shields.io/github/stars/accord-net/framework?style=social"/> : Machine learning, computer vision, statistics and general scientific computing for .NET. http://accord-framework.net/
 
 
 - ## Tutorial
