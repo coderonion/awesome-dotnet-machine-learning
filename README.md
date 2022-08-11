@@ -29,13 +29,15 @@
 
   - [TorchSharp](https://github.com/dotnet/TorchSharp) <img src="https://img.shields.io/github/stars/dotnet/TorchSharp?style=social"/> : A .NET library that provides access to the library that powers PyTorch.    
 
+  - [DiffSharp](https://github.com/DiffSharp/DiffSharp) <img src="https://img.shields.io/github/stars/DiffSharp/DiffSharp?style=social"/> : DiffSharp: Differentiable Functional Programming.
+
   - [KelpNet](https://github.com/harujoh/KelpNet) <img src="https://img.shields.io/github/stars/harujoh/KelpNet?style=social"/> : KelpNet : Pure C# machine learning framework.
-    
+
+  - [SharpNet](https://github.com/FranckZibi/SharpNet) <img src="https://img.shields.io/github/stars/FranckZibi/SharpNet?style=social"/> : Open-source Deep Learning library in C# with CUDA and BLAS support. 
+
   - [Bright Wire](https://github.com/jdermody/brightwire) <img src="https://img.shields.io/github/stars/jdermody/brightwire?style=social"/> : Bright Wire is an open source machine learning library for .NET with GPU support (via CUDA).
 
   - [MyCaffe](https://github.com/MyCaffe/MyCaffe) <img src="https://img.shields.io/github/stars/MyCaffe/MyCaffe?style=social"/> : A complete deep learning platform written almost entirely in C# for Windows developers! Now you can write your own layers in C#! 
-
-  - [SharpNet](https://github.com/FranckZibi/SharpNet) <img src="https://img.shields.io/github/stars/FranckZibi/SharpNet?style=social"/> : Open-source Deep Learning library in C# with CUDA and BLAS support.
 
   - [Torch.NET](https://github.com/SciSharp/Torch.NET) <img src="https://img.shields.io/github/stars/SciSharp/Torch.NET?style=social"/> : .NET bindings for PyTorch. Machine Learning with C# / F# with Multi-GPU/CPU support.
 
@@ -56,8 +58,6 @@
   - [System.AI](https://github.com/ColorfulSoft/System.AI) <img src="https://img.shields.io/github/stars/ColorfulSoft/System.AI?style=social"/> : Machine Learning and Data Analysis stack for .NET ecosystem.
 
   - [DeOldify.NET](https://github.com/ColorfulSoft/DeOldify.NET) <img src="https://img.shields.io/github/stars/ColorfulSoft/DeOldify.NET?style=social"/> : C# implementation of Jason Antic's DeOldify.
-
-  - [DiffSharp](https://github.com/DiffSharp/DiffSharp) <img src="https://img.shields.io/github/stars/DiffSharp/DiffSharp?style=social"/> : DiffSharp: Differentiable Functional Programming.
 
   - [NeuralNetwork.NET](https://github.com/Sergio0694/NeuralNetwork.NET) <img src="https://img.shields.io/github/stars/Sergio0694/NeuralNetwork.NET?style=social"/> : NeuralNetwork.NET is a .NET Standard 2.0 library that implements sequential and computation graph neural networks with customizable layers, built from scratch with C#.
 
@@ -156,9 +156,11 @@
 
     - [NatML](https://github.com/natmlx/NatML) <img src="https://img.shields.io/github/stars/natmlx/NatML?style=social"/> : High performance, cross-platform machine learning for Unity Engine. 
 
+
   - ### Chatbot Platform 
 
     - [BotSharp](https://github.com/SciSharp/BotSharp) <img src="https://img.shields.io/github/stars/SciSharp/BotSharp?style=social"/> : The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm. 
+
 
 
   - ### Natural Language Processing
