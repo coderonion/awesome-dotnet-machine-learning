@@ -169,7 +169,7 @@
 
     - [Stanford.NLP.NET](https://github.com/sergey-tihon/Stanford.NLP.NET) <img src="https://img.shields.io/github/stars/sergey-tihon/Stanford.NLP.NET?style=social"/> : Stanford NLP for .NET. 
 
-
+    - [Catalyst](https://github.com/curiosity-ai/catalyst) <img src="https://img.shields.io/github/stars/curiosity-ai/catalyst?style=social"/> : 🚀 Catalyst is a C# Natural Language Processing library built for speed. Inspired by spaCy's design, it brings pre-trained models, out-of-the box support for training word and document embeddings, and flexible entity recognition models. 
 
 
   - ### Object Classification
