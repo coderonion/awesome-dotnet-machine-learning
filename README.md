@@ -15,6 +15,7 @@
     - [Data Analysis](#data-analysis)
     - [Data Visualization](#data-visualizations)
   - [Applications](#applications)
+    - [Robotics AI](#robotics-ai)
     - [Simulation Engine](#simulation-engine)
     - [Chatbot Platform](#chatbot-platform)
     - [Natural Language Processing](#natural-language-processing)
@@ -102,9 +103,9 @@
 
   - ### Image Processing
 
-    - [OpenCvSharp](https://github.com/shimat/opencvsharp) <img src="https://img.shields.io/github/stars/shimat/opencvsharp?style=social"/> : OpenCV wrapper for .NET. 
-
     - [ImageSharp](https://github.com/SixLabors/ImageSharp) <img src="https://img.shields.io/github/stars/SixLabors/ImageSharp?style=social"/> : ImageSharp is a new, fully featured, fully managed, cross-platform, 2D graphics API. 
+
+    - [OpenCvSharp](https://github.com/shimat/opencvsharp) <img src="https://img.shields.io/github/stars/shimat/opencvsharp?style=social"/> : OpenCV wrapper for .NET. 
 
     - [SharpCV](https://github.com/SciSharp/SharpCV) <img src="https://img.shields.io/github/stars/SciSharp/SharpCV?style=social"/> : A Computer Vision library for C# and F# that combines OpenCV and NDArray together in .NET Standard. 
 
@@ -112,6 +113,8 @@
   - ### Numerical Computation
 
     - [Math.NET Numerics](https://github.com/mathnet/mathnet-numerics) <img src="https://img.shields.io/github/stars/mathnet/mathnet-numerics?style=social"/> : Math.NET Numerics is the numerical foundation of the Math.NET initiative, aiming to provide methods and algorithms for numerical computations in science, engineering and every day use. 
+
+    - [Math.NET Spatial](https://github.com/mathnet/mathnet-spatial) <img src="https://img.shields.io/github/stars/mathnet/mathnet-spatial?style=social"/> : Math.NET Spatial is an opensource geometry library for .Net, Silverlight and Mono. 
 
     - [Math.NET Filtering](https://github.com/mathnet/mathnet-filtering) <img src="https://img.shields.io/github/stars/mathnet/mathnet-filtering?style=social"/> : Math.NET Filtering is a digital signal processing toolkit, offering an infrastructure for digital filter design, applying those filters to data streams using data converters, as well as digital signal generators. 
 
@@ -148,13 +151,28 @@
 
 - ## Applications
 
+  - ### Robotics AI
+
+    - [ROS2 for .NET](https://github.com/ros2-dotnet/ros2_dotnet) <img src="https://img.shields.io/github/stars/ros2-dotnet/ros2_dotnet?style=social"/> : This is a collection of projects (bindings, code generator, examples and more) for writing ROS2 applications for .NET Core and .NET Standard.
+
+    - [Ros2 For Unity](https://github.com/RobotecAI/ros2-for-unity) <img src="https://img.shields.io/github/stars/RobotecAI/ros2-for-unity?style=social"/> : ROS2 For Unity is a high-performance communication solution to connect Unity3D and ROS2 ecosystem in a ROS2 "native" way.
+
+    - [Ros2cs](https://github.com/RobotecAI/ros2cs) <img src="https://img.shields.io/github/stars/RobotecAI/ros2cs?style=social"/> : A C# .NET library for ROS2, including C# implementation of rcl APIs, message generation, tests and examples.
+    
+     
+
   - ### Simulation Engine
 
     - [ML-Agents](https://github.com/Unity-Technologies/ml-agents) <img src="https://img.shields.io/github/stars/Unity-Technologies/ml-agents?style=social"/> : The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning. 
 
-    - [SVL Simulator](https://github.com/lgsvl/simulator) <img src="https://img.shields.io/github/stars/lgsvl/simulator?style=social"/> : SVL Simulator: An Autonomous Vehicle Simulator. A ROS/ROS2 Multi-robot Simulator for Autonomous Vehicles. 
+    - [AR Foundation Samples](https://github.com/Unity-Technologies/arfoundation-samples) <img src="https://img.shields.io/github/stars/Unity-Technologies/arfoundation-samples?style=social"/> : Example content for Unity projects based on AR Foundation.
 
-    - [NatML](https://github.com/natmlx/NatML) <img src="https://img.shields.io/github/stars/natmlx/NatML?style=social"/> : High performance, cross-platform machine learning for Unity Engine. 
+    - [MRTK-Unity](https://github.com/microsoft/MixedRealityToolkit-Unity) <img src="https://img.shields.io/github/stars/microsoft/MixedRealityToolkit-Unity?style=social"/> : Mixed Reality Toolkit (MRTK) provides a set of components and features to accelerate cross-platform MR app development in Unity. 
+
+    - [SVL Simulator](https://github.com/lgsvl/simulator) <img src="https://img.shields.io/github/stars/lgsvl/simulator?style=social"/> : SVL Simulator: An Autonomous Vehicle Simulator. A ROS/ROS2 Multi-robot Simulator for Autonomous Vehicles. LG Electronics America R&D Lab has developed an HDRP Unity-based multi-robot simulator for autonomous vehicle developers.
+
+    - [NatML](https://github.com/natmlx/NatML) <img src="https://img.shields.io/github/stars/natmlx/NatML?style=social"/> : High performance, cross-platform machine learning for Unity Engine. Register at https://hub.natml.ai 
+
 
 
   - ### Chatbot Platform 
