@@ -9,6 +9,7 @@
   - [Framework](#framework)
   - [Tutorial](#tutorial)
   - [Library](#library)
+    - [FFI Bindings](#ffi-bindings)
     - [GPU Integration](#gpu-integration)
     - [Image Processing](#image-processing)
     - [Numerical Computation](#numerical-computation)
