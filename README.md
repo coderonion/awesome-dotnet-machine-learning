@@ -24,6 +24,7 @@
     - [Object Classification](#object-classification)
     - [Face Recognition](#face-recognition)
     - [Object Detection](#object-detection)
+    - [Game Field](#game-field)
  
 
 - ## Framework
@@ -67,6 +68,8 @@
   - [AForge.NET](https://github.com/andrewkirillov/AForge.NET) <img src="https://img.shields.io/github/stars/andrewkirillov/AForge.NET?style=social"/> : AForge.NET Framework is a C# framework designed for developers and researchers in the fields of Computer Vision and Artificial Intelligence - image processing, neural networks, genetic algorithms, machine learning, robotics, etc. http://www.aforgenet.com/framework/
 
   - [Accord.NET](https://github.com/accord-net/framework) <img src="https://img.shields.io/github/stars/accord-net/framework?style=social"/> : Machine learning, computer vision, statistics and general scientific computing for .NET. http://accord-framework.net/
+
+  - [MLOps.NET](https://github.com/aslotte/MLOps.NET) <img src="https://img.shields.io/github/stars/aslotte/MLOps.NET?style=social"/> : A machine learning model operations and management tool for ML.NET 
 
 
 - ## Tutorial
@@ -133,6 +136,7 @@
     - [Math.NET Spatial](https://github.com/mathnet/mathnet-spatial) <img src="https://img.shields.io/github/stars/mathnet/mathnet-spatial?style=social"/> : Math.NET Spatial is an opensource geometry library for .Net, Silverlight and Mono. 
 
     - [Math.NET Filtering](https://github.com/mathnet/mathnet-filtering) <img src="https://img.shields.io/github/stars/mathnet/mathnet-filtering?style=social"/> : Math.NET Filtering is a digital signal processing toolkit, offering an infrastructure for digital filter design, applying those filters to data streams using data converters, as well as digital signal generators. 
+
 
 
   - ### Linear Algebra
@@ -293,3 +297,8 @@
     - [quangdungluong/object-detection-form](https://github.com/quangdungluong/object-detection-form) <img src="https://img.shields.io/github/stars/quangdungluong/object-detection-form?style=social"/> : YOLOv5 using ML.Net, C# and WinForm.
 
     - [vladkol/CustomVision.COCO](https://github.com/vladkol/CustomVision.COCO) <img src="https://img.shields.io/github/stars/vladkol/CustomVision.COCO?style=social"/> : Traning Azure [Custom Vision](https://www.customvision.ai/) projects using [COCO](https://cocodataset.org/) dataset.
+
+
+  - ### Game Field
+
+    - [Neurogame Fighters](https://github.com/Kacpu/NeurogameFighters) <img src="https://img.shields.io/github/stars/Kacpu/NeurogameFighters?style=social"/> : Shooter game with elements of machine learning made with WPF.
