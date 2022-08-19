@@ -3,6 +3,7 @@
 
 🔥🔥🔥 This repository lists some awesome public machine learning framework, tutorial, blogs, library and applications for .NET.
 
+
 ## Contents
 - [Awesome-Dotnet-Machine-Learning](#awesome-dotnet-machine-learning)
   - [Framework](#framework)
@@ -77,14 +78,27 @@
 
   - [TorchSharp Examples](https://github.com/dotnet/TorchSharpExamples) <img src="https://img.shields.io/github/stars/dotnet/TorchSharpExamples?style=social"/> : Repository for TorchSharp examples and tutorials. 
 
+  - [.NET Interactive Notebooks](https://github.com/dotnet/csharp-notebooks) <img src="https://img.shields.io/github/stars/dotnet/csharp-notebooks?style=social"/> : .NET Interactive Notebooks for C#. Get started learning C# with C# notebooks powered by .NET Interactive and VS Code. [kinfey/csharp-notebookss](https://github.com/kinfey/csharp-notebookss)
+
   - [Hands-On-Machine-Learning-With-ML.NET](https://github.com/PacktPublishing/Hands-On-Machine-Learning-With-ML.NET) <img src="https://img.shields.io/github/stars/PacktPublishing/Hands-On-Machine-Learning-With-ML.NET?style=social"/> : Hands-On Machine Learning with ML.NET, published by Packt.
 
   - [jeffprosise/ML.NET](https://github.com/jeffprosise/ML.NET) <img src="https://img.shields.io/github/stars/jeffprosise/ML.NET?style=social"/> : Code samples utilizing Microsoft's ML.NET machine-learning library.
 
 
 
-
 - ## Library
+
+  - ### FFI Bindings 
+
+    - [Python.NET](https://github.com/pythonnet/pythonnet) <img src="https://img.shields.io/github/stars/pythonnet/pythonnet?style=social"/> : Python.NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers.
+
+    - [CppSharp](https://github.com/mono/CppSharp) <img src="https://img.shields.io/github/stars/mono/CppSharp?style=social"/> : CppSharp is a tool and set of libraries which facilitates the usage of native C/C++ code with the .NET ecosystem.
+
+    - [C2CS](https://github.com/bottlenoselabs/c2cs) <img src="https://img.shields.io/github/stars/bottlenoselabs/c2cs?style=social"/> : Generate C# bindings from a C header. 
+
+    - [Diplomat](https://github.com/rust-diplomat/diplomat) <img src="https://img.shields.io/github/stars/rust-diplomat/diplomat?style=social"/> : Experimental Rust tool for generating FFI definitions allowing many other languages to call Rust code.
+
+
 
   - ### GPU Integration 
 
@@ -99,6 +113,7 @@
     - [Barracuda](https://github.com/Unity-Technologies/barracuda-release) <img src="https://img.shields.io/github/stars/Unity-Technologies/barracuda-release?style=social"/> : Unity Barracuda is a lightweight cross-platform Neural Networks inference library for Unity. Barracuda can run Neural Networks both on GPU and CPU.
 
     - [ManagedCUDA](https://github.com/kunzmi/managedCuda) <img src="https://img.shields.io/github/stars/kunzmi/managedCuda?style=social"/> : ManagedCUDA aims an easy integration of NVidia's CUDA in .net applications written in C#, Visual Basic or any other .net language. 
+
 
 
   - ### Image Processing
@@ -160,10 +175,9 @@
     - [Ros2cs](https://github.com/RobotecAI/ros2cs) <img src="https://img.shields.io/github/stars/RobotecAI/ros2cs?style=social"/> : A C# .NET library for ROS2, including C# implementation of rcl APIs, message generation, tests and examples.
     
      
-
   - ### Simulation Engine
 
-    - [ML-Agents](https://github.com/Unity-Technologies/ml-agents) <img src="https://img.shields.io/github/stars/Unity-Technologies/ml-agents?style=social"/> : The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning. 
+    - [Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents) <img src="https://img.shields.io/github/stars/Unity-Technologies/ml-agents?style=social"/> : The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning. 
 
     - [AR Foundation Samples](https://github.com/Unity-Technologies/arfoundation-samples) <img src="https://img.shields.io/github/stars/Unity-Technologies/arfoundation-samples?style=social"/> : Example content for Unity projects based on AR Foundation.
 
