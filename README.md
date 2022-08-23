@@ -37,9 +37,9 @@
 
   - [KelpNet](https://github.com/harujoh/KelpNet) <img src="https://img.shields.io/github/stars/harujoh/KelpNet?style=social"/> : KelpNet : Pure C# machine learning framework.
 
-  - [SharpNet](https://github.com/FranckZibi/SharpNet) <img src="https://img.shields.io/github/stars/FranckZibi/SharpNet?style=social"/> : Open-source Deep Learning library in C# with CUDA and BLAS support. 
-
   - [Bright Wire](https://github.com/jdermody/brightwire) <img src="https://img.shields.io/github/stars/jdermody/brightwire?style=social"/> : Bright Wire is an open source machine learning library for .NET with GPU support (via CUDA).
+
+  - [SharpNet](https://github.com/FranckZibi/SharpNet) <img src="https://img.shields.io/github/stars/FranckZibi/SharpNet?style=social"/> : Open-source Deep Learning library in C# with CUDA and BLAS support. 
 
   - [MyCaffe](https://github.com/MyCaffe/MyCaffe) <img src="https://img.shields.io/github/stars/MyCaffe/MyCaffe?style=social"/> : A complete deep learning platform written almost entirely in C# for Windows developers! Now you can write your own layers in C#! 
 
@@ -131,6 +131,8 @@
 
   - ### Numerical Computation
 
+    - [Math.NET](https://www.mathdotnet.com/) : Math.NET is an opensource initiative to build and maintain toolkits covering fundamental mathematics, targetting advanced but also every day needs of .Net developers. 
+
     - [Math.NET Numerics](https://github.com/mathnet/mathnet-numerics) <img src="https://img.shields.io/github/stars/mathnet/mathnet-numerics?style=social"/> : Math.NET Numerics is the numerical foundation of the Math.NET initiative, aiming to provide methods and algorithms for numerical computations in science, engineering and every day use. 
 
     - [Math.NET Spatial](https://github.com/mathnet/mathnet-spatial) <img src="https://img.shields.io/github/stars/mathnet/mathnet-spatial?style=social"/> : Math.NET Spatial is an opensource geometry library for .Net, Silverlight and Mono. 
@@ -146,6 +148,8 @@
     - [Numpy.NET](https://github.com/SciSharp/Numpy.NET) <img src="https://img.shields.io/github/stars/SciSharp/Numpy.NET?style=social"/> : C#/F# bindings for NumPy - a fundamental library for scientific computing, machine learning and AI.
 
     - [NumSharp](https://github.com/SciSharp/NumSharp) <img src="https://img.shields.io/github/stars/SciSharp/NumSharp?style=social"/> : High Performance Computation for N-D Tensors in .NET, similar API to NumPy. 
+
+
 
 
   - ### Data Analysis
