@@ -118,6 +118,7 @@
 
     - [ManagedCUDA](https://github.com/kunzmi/managedCuda) <img src="https://img.shields.io/github/stars/kunzmi/managedCuda?style=social"/> : ManagedCUDA aims an easy integration of NVidia's CUDA in .net applications written in C#, Visual Basic or any other .net language. 
 
+    - [Amplifier.NET](https://github.com/deepakkumar1984/Amplifier.NET) <img src="https://img.shields.io/github/stars/deepakkumar1984/Amplifier.NET?style=social"/> : Amplifier allows .NET developers to easily run complex applications with intensive mathematical computation on Intel CPU/GPU, NVIDIA, AMD without writing any additional C kernel code. Write your function in .NET and Amplifier will take care of running it on your favorite hardware.  
 
 
   - ### Image Processing
@@ -159,6 +160,7 @@
     - [Pandas.NET](https://github.com/SciSharp/Pandas.NET) <img src="https://img.shields.io/github/stars/SciSharp/Pandas.NET?style=social"/> : Pandas port for C# and F#, data analysis tool, process multi-dim array in DataFrame. 
 
 
+
   - ### Data Visualization
 
     - [LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) <img src="https://img.shields.io/github/stars/beto-rodriguez/LiveCharts2?style=social"/> : Simple, flexible, interactive & powerful charts, maps and gauges for .Net, LiveCharts2 can now practically run everywhere Maui, Uno Platform, Blazor-wasm, WPF, WinForms, Xamarin, Avalonia, WinUI, UWP. 
@@ -170,6 +172,7 @@
     - [Plotly.NET](https://github.com/plotly/Plotly.NET) <img src="https://img.shields.io/github/stars/plotly/Plotly.NET?style=social"/> : Plotly.NET provides functions for generating and rendering plotly.js charts in .NET programming languages 📈🚀.
 
     - [swharden/Csharp-Data-Visualization](https://github.com/swharden/Csharp-Data-Visualization) <img src="https://img.shields.io/github/stars/swharden/Csharp-Data-Visualization?style=social"/> : Resources for visualizing data using C# and the .NET platform.
+
 
 
 
