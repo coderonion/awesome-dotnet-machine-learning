@@ -94,9 +94,11 @@
 
   - ### FFI Bindings 
 
-    - [Python.NET](https://github.com/pythonnet/pythonnet) <img src="https://img.shields.io/github/stars/pythonnet/pythonnet?style=social"/> : Python.NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers.
-
     - [CppSharp](https://github.com/mono/CppSharp) <img src="https://img.shields.io/github/stars/mono/CppSharp?style=social"/> : CppSharp is a tool and set of libraries which facilitates the usage of native C/C++ code with the .NET ecosystem.
+
+    - [ClangSharp](https://github.com/dotnet/ClangSharp) <img src="https://img.shields.io/github/stars/dotnet/ClangSharp?style=social"/> : Clang bindings for .NET written in C#.
+
+    - [Python.NET](https://github.com/pythonnet/pythonnet) <img src="https://img.shields.io/github/stars/pythonnet/pythonnet?style=social"/> : Python.NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers.
 
     - [C2CS](https://github.com/bottlenoselabs/c2cs) <img src="https://img.shields.io/github/stars/bottlenoselabs/c2cs?style=social"/> : Generate C# bindings from a C header. 
 
