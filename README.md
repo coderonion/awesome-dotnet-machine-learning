@@ -29,6 +29,8 @@
 
 - ## Framework
 
+  - [SynapseML](https://github.com/microsoft/SynapseML) <img src="https://img.shields.io/github/stars/microsoft/SynapseML?style=social"/> : SynapseML (previously known as MMLSpark), is an open-source library that simplifies the creation of massively scalable machine learning (ML) pipelines. SynapseML provides simple, composable, and distributed APIs for a wide variety of different machine learning tasks such as text analytics, vision, anomaly detection, and many others.  
+
   - [ML.NET](https://github.com/dotnet/machinelearning) <img src="https://img.shields.io/github/stars/dotnet/machinelearning?style=social"/> : ML.NET is an open source and cross-platform machine learning framework for .NET. 
 
   - [TorchSharp](https://github.com/dotnet/TorchSharp) <img src="https://img.shields.io/github/stars/dotnet/TorchSharp?style=social"/> : A .NET library that provides access to the library that powers PyTorch.    
@@ -76,9 +78,11 @@
 
   - [Microsoft AI Lab](https://github.com/microsoft/ailab) <img src="https://img.shields.io/github/stars/microsoft/ailab?style=social"/> : Experience, Learn and Code the latest breakthrough innovations with Microsoft AI.
 
+  - [Microsoft SynapseML](https://microsoft.github.io/SynapseML) : Simple and Distributed Machine Learning.
+
   - [Microsoft ML.NET](https://dotnet.microsoft.com/en-us/apps/machinelearning-ai/ml-dotnet) : ML.NET An open source and cross-platform machine learning framework. ML.NET 开放源代码的跨平台机器学习框架。
 
-  - [ML.NET Samples](https://github.com/dotnet/machinelearning-samples) <img src="https://img.shields.io/github/stars/dotnet/machinelearning-samples?style=social"/> : Samples for ML.NET, an open source and cross-platform machine learning framework for .NET.  
+  - [Microsoft ML.NET Samples](https://github.com/dotnet/machinelearning-samples) <img src="https://img.shields.io/github/stars/dotnet/machinelearning-samples?style=social"/> : Samples for ML.NET, an open source and cross-platform machine learning framework for .NET.  
 
   - [TorchSharp Examples](https://github.com/dotnet/TorchSharpExamples) <img src="https://img.shields.io/github/stars/dotnet/TorchSharpExamples?style=social"/> : Repository for TorchSharp examples and tutorials. 
 
