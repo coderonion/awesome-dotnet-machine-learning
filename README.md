@@ -15,7 +15,7 @@
     - [Numerical Computation](#numerical-computation)
     - [Linear Algebra](#linear-algebra)
     - [Data Analysis](#data-analysis)
-    - [Data Visualization](#data-visualizations)
+    - [Data Visualization](#data-visualization)
   - [Applications](#applications)
     - [Robotics AI](#robotics-ai)
     - [Simulation Engine](#simulation-engine)
