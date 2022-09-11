@@ -12,8 +12,7 @@
     - [FFI Bindings](#ffi-bindings)
     - [GPU Integration](#gpu-integration)
     - [Image Processing](#image-processing)
-    - [Numerical Computation](#numerical-computation)
-    - [Linear Algebra](#linear-algebra)
+    - [Scientific Computation](#scientific-computation)
     - [Data Analysis](#data-analysis)
     - [Data Visualization](#data-visualization)
   - [Applications](#applications)
@@ -136,27 +135,21 @@
     - [SharpCV](https://github.com/SciSharp/SharpCV) <img src="https://img.shields.io/github/stars/SciSharp/SharpCV?style=social"/> : A Computer Vision library for C# and F# that combines OpenCV and NDArray together in .NET Standard. 
 
 
-  - ### Numerical Computation
+  - ### Scientific Computation
 
     - [Math.NET](https://www.mathdotnet.com/) : Math.NET is an opensource initiative to build and maintain toolkits covering fundamental mathematics, targetting advanced but also every day needs of .Net developers. 
 
-    - [Math.NET Numerics](https://github.com/mathnet/mathnet-numerics) <img src="https://img.shields.io/github/stars/mathnet/mathnet-numerics?style=social"/> : Math.NET Numerics is the numerical foundation of the Math.NET initiative, aiming to provide methods and algorithms for numerical computations in science, engineering and every day use. 
+    - [Math.NET Numerics](https://github.com/mathnet/mathnet-numerics) <img src="https://img.shields.io/github/stars/mathnet/mathnet-numerics?style=social"/> : Math.NET Numerics is the numerical foundation of the Math.NET initiative, aiming to provide methods and algorithms for numerical computations in science, engineering and every day use. Covered topics include special functions, linear algebra, probability models, random numbers, statistics, interpolation, integration, regression, curve fitting, integral transforms (FFT) and more.
 
     - [Math.NET Spatial](https://github.com/mathnet/mathnet-spatial) <img src="https://img.shields.io/github/stars/mathnet/mathnet-spatial?style=social"/> : Math.NET Spatial is an opensource geometry library for .Net, Silverlight and Mono. 
 
     - [Math.NET Filtering](https://github.com/mathnet/mathnet-filtering) <img src="https://img.shields.io/github/stars/mathnet/mathnet-filtering?style=social"/> : Math.NET Filtering is a digital signal processing toolkit, offering an infrastructure for digital filter design, applying those filters to data streams using data converters, as well as digital signal generators. 
 
-
-
-  - ### Linear Algebra
-
-    - [AngouriMath](https://github.com/asc-community/AngouriMath) <img src="https://img.shields.io/github/stars/asc-community/AngouriMath?style=social"/> : New open-source cross-platform symbolic algebra library for C# and F#. Can be used for both production and research purposes. 
-
     - [Numpy.NET](https://github.com/SciSharp/Numpy.NET) <img src="https://img.shields.io/github/stars/SciSharp/Numpy.NET?style=social"/> : C#/F# bindings for NumPy - a fundamental library for scientific computing, machine learning and AI.
 
     - [NumSharp](https://github.com/SciSharp/NumSharp) <img src="https://img.shields.io/github/stars/SciSharp/NumSharp?style=social"/> : High Performance Computation for N-D Tensors in .NET, similar API to NumPy. 
 
-
+    - [AngouriMath](https://github.com/asc-community/AngouriMath) <img src="https://img.shields.io/github/stars/asc-community/AngouriMath?style=social"/> : New open-source cross-platform symbolic algebra library for C# and F#. Can be used for both production and research purposes. 
 
 
   - ### Data Analysis
