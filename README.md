@@ -34,6 +34,8 @@
 
   - [TorchSharp](https://github.com/dotnet/TorchSharp) <img src="https://img.shields.io/github/stars/dotnet/TorchSharp?style=social"/> : A .NET library that provides access to the library that powers PyTorch.    
 
+  - [TensorFlow.NET](https://github.com/SciSharp/TensorFlow.NET) <img src="https://img.shields.io/github/stars/SciSharp/TensorFlow.NET?style=social"/> : .NET Standard bindings for Google's TensorFlow for developing, training and deploying Machine Learning models in C# and F#.   
+  
   - [DiffSharp](https://github.com/DiffSharp/DiffSharp) <img src="https://img.shields.io/github/stars/DiffSharp/DiffSharp?style=social"/> : DiffSharp: Differentiable Functional Programming.
 
   - [KelpNet](https://github.com/harujoh/KelpNet) <img src="https://img.shields.io/github/stars/harujoh/KelpNet?style=social"/> : KelpNet : Pure C# machine learning framework.
@@ -45,8 +47,6 @@
   - [MyCaffe](https://github.com/MyCaffe/MyCaffe) <img src="https://img.shields.io/github/stars/MyCaffe/MyCaffe?style=social"/> : A complete deep learning platform written almost entirely in C# for Windows developers! Now you can write your own layers in C#! 
 
   - [Torch.NET](https://github.com/SciSharp/Torch.NET) <img src="https://img.shields.io/github/stars/SciSharp/Torch.NET?style=social"/> : .NET bindings for PyTorch. Machine Learning with C# / F# with Multi-GPU/CPU support.
-
-  - [TensorFlow.NET](https://github.com/SciSharp/TensorFlow.NET) <img src="https://img.shields.io/github/stars/SciSharp/TensorFlow.NET?style=social"/> : .NET Standard bindings for Google's TensorFlow for developing, training and deploying Machine Learning models in C# and F#.     
 
   - [Keras.NET](https://github.com/SciSharp/Keras.NET) <img src="https://img.shields.io/github/stars/SciSharp/Keras.NET?style=social"/> : Keras.NET is a high-level neural networks API for C# and F#, with Python Binding and capable of running on top of TensorFlow, CNTK, or Theano. 
 
@@ -243,7 +243,9 @@
     - [mentalstack/yolov5-net](https://github.com/mentalstack/yolov5-net) <img src="https://img.shields.io/github/stars/mentalstack/yolov5-net?style=social"/> : YOLOv5 object detection with C#, ML.NET, ONNX.
 
     - [ivilson/Yolov7net](https://github.com/ivilson/Yolov7net) <img src="https://img.shields.io/github/stars/ivilson/Yolov7net?style=social"/> : Yolov7 Detector for .Net 6.
-    
+
+    - [sangyuxiaowu/ml_yolov7](https://github.com/sangyuxiaowu/ml_yolov7) <img src="https://img.shields.io/github/stars/sangyuxiaowu/ml_yolov7?style=social"/> : ML.NET Yolov7. "微信公众号「桑榆肖物」《[YOLOv7 在 ML.NET 中使用 ONNX 检测对象](https://mp.weixin.qq.com/s/vXz6gavYJR2mh5KuJO_slA)》"
+
     - [keijiro/TinyYOLOv2Barracuda](https://github.com/keijiro/TinyYOLOv2Barracuda) <img src="https://img.shields.io/github/stars/keijiro/TinyYOLOv2Barracuda?style=social"/> : Tiny YOLOv2 on Unity Barracuda.
 
     - [derenlei/Unity_Detection2AR](https://github.com/derenlei/Unity_Detection2AR) <img src="https://img.shields.io/github/stars/derenlei/Unity_Detection2AR?style=social"/> : Localize 2D image object detection in 3D Scene with Yolo in Unity Barracuda and ARFoundation.
@@ -278,29 +280,35 @@
 
     - [mwetzko/EasyYoloDarknet](https://github.com/mwetzko/EasyYoloDarknet) <img src="https://img.shields.io/github/stars/mwetzko/EasyYoloDarknet?style=social"/> : Windows optimized Yolo / Darknet Compile, Train and Detect.
 
+    - [cj-mills/Unity-OpenVINO-YOLOX](https://github.com/cj-mills/Unity-OpenVINO-YOLOX) <img src="https://img.shields.io/github/stars/cj-mills/Unity-OpenVINO-YOLOX?style=social"/> : This tutorial series covers how to perform object detection in the Unity game engine with the OpenVINO™ Toolkit. 
+
+    - [natml-hub/YOLOX](https://github.com/natml-hub/YOLOX) <img src="https://img.shields.io/github/stars/natml-hub/YOLOX?style=social"/> : High performance object detector based on YOLO series. 
+
+    - [thisistherealdiana/YOLO_project](https://github.com/thisistherealdiana/YOLO_project) <img src="https://img.shields.io/github/stars/thisistherealdiana/YOLO_project?style=social"/> : YOLO project made by Diana Kereselidze. 
+
+    - [oujunke/Yolo5Net](https://github.com/oujunke/Yolo5Net) <img src="https://img.shields.io/github/stars/oujunke/Yolo5Net?style=social"/> : Yolo5实现于TensorFlow.Net. 
+
+    - [wojciechp6/YOLO-UnityBarracuda](https://github.com/wojciechp6/YOLO-UnityBarracuda) <img src="https://img.shields.io/github/stars/wojciechp6/YOLO-UnityBarracuda?style=social"/> : Object detection app build on Unity Barracuda and YOLOv2 Tiny.
+
     - [RaminAbbaszadi/YoloWrapper-WPF](https://github.com/RaminAbbaszadi/YoloWrapper-WPF) <img src="https://img.shields.io/github/stars/RaminAbbaszadi/YoloWrapper-WPF?style=social"/> : WPF (C#) Yolo Darknet Wrapper.
 
     - [fengyhack/YoloWpf](https://github.com/fengyhack/YoloWpf) <img src="https://img.shields.io/github/stars/fengyhack/YoloWpf?style=social"/> : GUI demo for Object Detection with YOLO and OpenCVSharp.
 
     - [hanzhuang111/Yolov5Wpf](https://github.com/hanzhuang111/Yolov5Wpf) <img src="https://img.shields.io/github/stars/hanzhuang111/Yolov5Wpf?style=social"/> : 使用ML.NET部署YOLOV5 的ONNX模型。
 
+    - [quangdungluong/object-detection-form](https://github.com/quangdungluong/object-detection-form) <img src="https://img.shields.io/github/stars/quangdungluong/object-detection-form?style=social"/> : YOLOv5 using ML.Net, C# and WinForm.
+
     - [MaikoKingma/yolo-winforms-test](https://github.com/MaikoKingma/yolo-winforms-test) <img src="https://img.shields.io/github/stars/MaikoKingma/yolo-winforms-test?style=social"/> : A Windows forms application that can execute pre-trained object detection models via ML.NET. In this instance the You Only Look Once version 4 (yolov4) is used.
 
-    - [Soju06/yolov5-annotation-viewer](https://github.com/Soju06/yolov5-annotation-viewer) <img src="https://img.shields.io/github/stars/Soju06/yolov5-annotation-viewer?style=social"/> : yolov5 annotation viewer.
-  
-    - [cj-mills/Unity-OpenVINO-YOLOX](https://github.com/cj-mills/Unity-OpenVINO-YOLOX) <img src="https://img.shields.io/github/stars/cj-mills/Unity-OpenVINO-YOLOX?style=social"/> : This tutorial series covers how to run the [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) object detection model in the Unity game engine with the OpenVINO™ Toolkit.
-  
     - [SeanAnd/WebcamObjectDetection](https://github.com/SeanAnd/WebcamObjectDetection) <img src="https://img.shields.io/github/stars/SeanAnd/WebcamObjectDetection?style=social"/> : YOLO object detection using webcam in winforms.
 
     - [Devmawi/BlazorObjectDetection-Sample](https://github.com/Devmawi/BlazorObjectDetection-Sample) <img src="https://img.shields.io/github/stars/Devmawi/BlazorObjectDetection-Sample?style=social"/> : Simple project for demonstrating how to embed a continuously object detection with Yolo on a video in a hybrid Blazor app (WebView2).
 
+    - [Soju06/yolov5-annotation-viewer](https://github.com/Soju06/yolov5-annotation-viewer) <img src="https://img.shields.io/github/stars/Soju06/yolov5-annotation-viewer?style=social"/> : yolov5 annotation viewer.
+
     - [0Kirby/ThrowObjectDetectionWinUI](https://github.com/0Kirby/ThrowObjectDetectionWinUI) <img src="https://img.shields.io/github/stars/0Kirby/ThrowObjectDetectionWinUI?style=social"/> : 高空抛物检测的WinUI实现。
-
-    - [wojciechp6/YOLO-UnityBarracuda](https://github.com/wojciechp6/YOLO-UnityBarracuda) <img src="https://img.shields.io/github/stars/wojciechp6/YOLO-UnityBarracuda?style=social"/> : Object detection app build on Unity Barracuda and YOLOv2 Tiny.
-
+    
     - [davide-cas/HoloHelp](https://github.com/davide-cas/HoloHelp) <img src="https://img.shields.io/github/stars/davide-cas/HoloHelp?style=social"/> : HoloHelp: HoloLens Object Detection for a Guided Interaction.
-
-    - [quangdungluong/object-detection-form](https://github.com/quangdungluong/object-detection-form) <img src="https://img.shields.io/github/stars/quangdungluong/object-detection-form?style=social"/> : YOLOv5 using ML.Net, C# and WinForm.
 
     - [vladkol/CustomVision.COCO](https://github.com/vladkol/CustomVision.COCO) <img src="https://img.shields.io/github/stars/vladkol/CustomVision.COCO?style=social"/> : Traning Azure [Custom Vision](https://www.customvision.ai/) projects using [COCO](https://cocodataset.org/) dataset.
 
