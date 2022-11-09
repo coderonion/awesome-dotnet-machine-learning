@@ -229,6 +229,8 @@
 
     - [takuya-takeuchi/FaceRecognitionDotNet](https://github.com/takuya-takeuchi/FaceRecognitionDotNet) <img src="https://img.shields.io/github/stars/takuya-takeuchi/FaceRecognitionDotNet?style=social"/> : The world's simplest facial recognition api for .NET on Windows, MacOS and Linux.
 
+    - [ViewFaceCore/ViewFaceCore](https://github.com/ViewFaceCore/ViewFaceCore) <img src="https://img.shields.io/github/stars/ViewFaceCore/ViewFaceCore?style=social"/> : C# 超简单的离线人脸识别库。( 基于 SeetaFace6 ) 
+
     - [FaceONNX](https://github.com/FaceONNX/FaceONNX) <img src="https://img.shields.io/github/stars/FaceONNX/FaceONNX?style=social"/> : Face analytics library based on deep neural networks and ONNX runtime. 
 
 
