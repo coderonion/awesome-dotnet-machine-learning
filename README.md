@@ -35,6 +35,8 @@
   - [TorchSharp](https://github.com/dotnet/TorchSharp) <img src="https://img.shields.io/github/stars/dotnet/TorchSharp?style=social"/> : A .NET library that provides access to the library that powers PyTorch.    
 
   - [TensorFlow.NET](https://github.com/SciSharp/TensorFlow.NET) <img src="https://img.shields.io/github/stars/SciSharp/TensorFlow.NET?style=social"/> : .NET Standard bindings for Google's TensorFlow for developing, training and deploying Machine Learning models in C# and F#.   
+
+  - [DlibDotNet](https://github.com/takuya-takeuchi/DlibDotNet) <img src="https://img.shields.io/github/stars/takuya-takeuchi/DlibDotNet?style=social"/> : Dlib .NET wrapper written in C++ and C# for Windows, MacOS, Linux and iOS.
   
   - [DiffSharp](https://github.com/DiffSharp/DiffSharp) <img src="https://img.shields.io/github/stars/DiffSharp/DiffSharp?style=social"/> : DiffSharp: Differentiable Functional Programming.
 
@@ -56,7 +58,7 @@
 
   - [xin-pu/Machine-Learning](https://github.com/xin-pu/Machine-Learning) <img src="https://img.shields.io/github/stars/xin-pu/Machine-Learning?style=social"/> : Deep learning Tool by C#.
 
-  - [DlibDotNet](https://github.com/takuya-takeuchi/DlibDotNet) <img src="https://img.shields.io/github/stars/takuya-takeuchi/DlibDotNet?style=social"/> : Dlib .NET wrapper written in C++ and C# for Windows, MacOS, Linux and iOS.
+
 
   - [LibSvmDotNet](https://github.com/takuya-takeuchi/LibSvmDotNet) <img src="https://img.shields.io/github/stars/takuya-takeuchi/LibSvmDotNet?style=social"/> : .NET wrapper for LIBSVM written in C#.
 
