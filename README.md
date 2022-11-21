@@ -58,8 +58,6 @@
 
   - [xin-pu/Machine-Learning](https://github.com/xin-pu/Machine-Learning) <img src="https://img.shields.io/github/stars/xin-pu/Machine-Learning?style=social"/> : Deep learning Tool by C#.
 
-
-
   - [LibSvmDotNet](https://github.com/takuya-takeuchi/LibSvmDotNet) <img src="https://img.shields.io/github/stars/takuya-takeuchi/LibSvmDotNet?style=social"/> : .NET wrapper for LIBSVM written in C#.
 
   - [System.AI](https://github.com/ColorfulSoft/System.AI) <img src="https://img.shields.io/github/stars/ColorfulSoft/System.AI?style=social"/> : Machine Learning and Data Analysis stack for .NET ecosystem.
