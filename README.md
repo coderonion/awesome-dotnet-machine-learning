@@ -21,6 +21,7 @@
     - [Chatbot Platform](#chatbot-platform)
     - [Natural Language Processing](#natural-language-processing)
     - [Object Classification](#object-classification)
+    - [Face Detection](#face-detection)
     - [Face Recognition](#face-recognition)
     - [Object Detection](#object-detection)
     - [Game Field](#game-field)
@@ -222,6 +223,12 @@
     - [NsfwSpy](https://github.com/d00ML0rDz/NsfwSpy) <img src="https://img.shields.io/github/stars/d00ML0rDz/NsfwSpy?style=social"/> : A .NET image and video classifier used to identify explicit/pornographic content written in C#.  
 
     - [ClassifyBot](https://github.com/allisterb/ClassifyBot) <img src="https://img.shields.io/github/stars/allisterb/ClassifyBot?style=social"/> : ClassifyBot is an open-source cross-platform .NET library that tries to automate and make reproducible the steps needed to create machine learning pipelines for object classification using different open-source ML and NLP components. 
+
+
+
+  - ### Face Detection
+
+    - [yangzhongke/ApplyMasksForWorldCup](https://github.com/yangzhongke/ApplyMasksForWorldCup) <img src="https://img.shields.io/github/stars/yangzhongke/ApplyMasksForWorldCup?style=social"/> : ApplyMasksForWorldCup.
 
 
 
