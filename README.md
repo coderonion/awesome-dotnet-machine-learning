@@ -98,6 +98,10 @@
 
   - ### FFI Bindings 
 
+    - [PInvoke.net](https://pinvoke.net/) : PInvoke.net is primarily a wiki, allowing developers to find, edit and add PInvoke* signatures, user-defined types, and any other information related to calling Win32 and other unmanaged APIs from managed code (written in languages such as C# or VB.NET).
+
+    - [PInvoke](https://github.com/dotnet/pinvoke) <img src="https://img.shields.io/github/stars/dotnet/pinvoke?style=social"/> : A library containing all P/Invoke code so you don't have to import it every time. Maintained and updated to support the latest Windows OS.
+
     - [CppSharp](https://github.com/mono/CppSharp) <img src="https://img.shields.io/github/stars/mono/CppSharp?style=social"/> : CppSharp is a tool and set of libraries which facilitates the usage of native C/C++ code with the .NET ecosystem.
 
     - [ClangSharp](https://github.com/dotnet/ClangSharp) <img src="https://img.shields.io/github/stars/dotnet/ClangSharp?style=social"/> : Clang bindings for .NET written in C#.
