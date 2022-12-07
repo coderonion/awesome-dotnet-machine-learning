@@ -21,9 +21,9 @@
     - [Chatbot Platform](#chatbot-platform)
     - [Natural Language Processing](#natural-language-processing)
     - [Object Classification](#object-classification)
+    - [Object Detection](#object-detection)
     - [Face Detection](#face-detection)
     - [Face Recognition](#face-recognition)
-    - [Object Detection](#object-detection)
     - [Game Field](#game-field)
  
 
@@ -196,7 +196,10 @@
     - [Ros2 For Unity](https://github.com/RobotecAI/ros2-for-unity) <img src="https://img.shields.io/github/stars/RobotecAI/ros2-for-unity?style=social"/> : ROS2 For Unity is a high-performance communication solution to connect Unity3D and ROS2 ecosystem in a ROS2 "native" way.
 
     - [Ros2cs](https://github.com/RobotecAI/ros2cs) <img src="https://img.shields.io/github/stars/RobotecAI/ros2cs?style=social"/> : A C# .NET library for ROS2, including C# implementation of rcl APIs, message generation, tests and examples.
-    
+
+    - [dotnet-state-machine/stateless](https://github.com/dotnet-state-machine/stateless) <img src="https://img.shields.io/github/stars/dotnet-state-machine/stateless?style=social"/> : A simple library for creating state machines in C# code.
+
+
      
   - ### Simulation Engine
 
@@ -234,24 +237,6 @@
     - [NsfwSpy](https://github.com/d00ML0rDz/NsfwSpy) <img src="https://img.shields.io/github/stars/d00ML0rDz/NsfwSpy?style=social"/> : A .NET image and video classifier used to identify explicit/pornographic content written in C#.  
 
     - [ClassifyBot](https://github.com/allisterb/ClassifyBot) <img src="https://img.shields.io/github/stars/allisterb/ClassifyBot?style=social"/> : ClassifyBot is an open-source cross-platform .NET library that tries to automate and make reproducible the steps needed to create machine learning pipelines for object classification using different open-source ML and NLP components. 
-
-
-
-  - ### Face Detection
-
-    - [yangzhongke/ApplyMasksForWorldCup](https://github.com/yangzhongke/ApplyMasksForWorldCup) <img src="https://img.shields.io/github/stars/yangzhongke/ApplyMasksForWorldCup?style=social"/> : ApplyMasksForWorldCup.
-
-
-
-  - ### Face Recognition 
-
-    - [takuya-takeuchi/FaceRecognitionDotNet](https://github.com/takuya-takeuchi/FaceRecognitionDotNet) <img src="https://img.shields.io/github/stars/takuya-takeuchi/FaceRecognitionDotNet?style=social"/> : The world's simplest facial recognition api for .NET on Windows, MacOS and Linux.
-
-    - [ViewFaceCore/ViewFaceCore](https://github.com/ViewFaceCore/ViewFaceCore) <img src="https://img.shields.io/github/stars/ViewFaceCore/ViewFaceCore?style=social"/> : C# 超简单的离线人脸识别库。( 基于 SeetaFace6 ) 
-
-    - [FaceONNX](https://github.com/FaceONNX/FaceONNX) <img src="https://img.shields.io/github/stars/FaceONNX/FaceONNX?style=social"/> : Face analytics library based on deep neural networks and ONNX runtime. 
-
-
 
 
   - ### Object Detection
@@ -331,6 +316,23 @@
     - [davide-cas/HoloHelp](https://github.com/davide-cas/HoloHelp) <img src="https://img.shields.io/github/stars/davide-cas/HoloHelp?style=social"/> : HoloHelp: HoloLens Object Detection for a Guided Interaction.
 
     - [vladkol/CustomVision.COCO](https://github.com/vladkol/CustomVision.COCO) <img src="https://img.shields.io/github/stars/vladkol/CustomVision.COCO?style=social"/> : Traning Azure [Custom Vision](https://www.customvision.ai/) projects using [COCO](https://cocodataset.org/) dataset.
+
+
+  - ### Face Detection
+
+    - [yangzhongke/ApplyMasksForWorldCup](https://github.com/yangzhongke/ApplyMasksForWorldCup) <img src="https://img.shields.io/github/stars/yangzhongke/ApplyMasksForWorldCup?style=social"/> : ApplyMasksForWorldCup.
+
+
+
+  - ### Face Recognition 
+
+    - [takuya-takeuchi/FaceRecognitionDotNet](https://github.com/takuya-takeuchi/FaceRecognitionDotNet) <img src="https://img.shields.io/github/stars/takuya-takeuchi/FaceRecognitionDotNet?style=social"/> : The world's simplest facial recognition api for .NET on Windows, MacOS and Linux.
+
+    - [ViewFaceCore/ViewFaceCore](https://github.com/ViewFaceCore/ViewFaceCore) <img src="https://img.shields.io/github/stars/ViewFaceCore/ViewFaceCore?style=social"/> : C# 超简单的离线人脸识别库。( 基于 SeetaFace6 ) 
+
+    - [FaceONNX](https://github.com/FaceONNX/FaceONNX) <img src="https://img.shields.io/github/stars/FaceONNX/FaceONNX?style=social"/> : Face analytics library based on deep neural networks and ONNX runtime. 
+
+    - [mesutpiskin/face-detection-and-recognition](https://github.com/mesutpiskin/face-detection-and-recognition) <img src="https://img.shields.io/github/stars/mesutpiskin/face-detection-and-recognition?style=social"/> : C# Face detection and recognition with EmguCV. Eigenfaces, Fisherfaces and LBPH algorithms.
 
 
   - ### Game Field
