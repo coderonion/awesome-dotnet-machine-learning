@@ -223,6 +223,8 @@
 
   - ### Natural Language Processing
 
+    - [chatGPTLineBot](https://github.com/isdaviddong/chatGPTLineBot) <img src="https://img.shields.io/github/stars/isdaviddong/chatGPTLineBot?style=social"/> : ChatGPT LINE Bot.
+
     - [PolarisAI](https://github.com/MeiFagundes/PolarisAI) <img src="https://img.shields.io/github/stars/MeiFagundes/PolarisAI?style=social"/> : Personal Assistant Engine built with ML.NET. 
 
     - [Stanford.NLP.NET](https://github.com/sergey-tihon/Stanford.NLP.NET) <img src="https://img.shields.io/github/stars/sergey-tihon/Stanford.NLP.NET?style=social"/> : Stanford NLP for .NET. 
