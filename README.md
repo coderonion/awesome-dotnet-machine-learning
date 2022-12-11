@@ -225,6 +225,12 @@
 
     - [chatGPTLineBot](https://github.com/isdaviddong/chatGPTLineBot) <img src="https://img.shields.io/github/stars/isdaviddong/chatGPTLineBot?style=social"/> : ChatGPT LINE Bot.
 
+    - [Kengxxiao/Himari.ChatGPT](https://github.com/Kengxxiao/Himari.ChatGPT) <img src="https://img.shields.io/github/stars/Kengxxiao/Himari.ChatGPT?style=social"/> : 使用ChatGPT的QQ机器人的简单实现。
+
+    - [wieslawsoltes/ChatGPT](https://github.com/wieslawsoltes/ChatGPT) <img src="https://img.shields.io/github/stars/wieslawsoltes/ChatGPT?style=social"/> : A ChatGPT C# client for console and graphical user interface.
+
+    - [IronWarrior/ChatGPT-2DPhysics](https://github.com/IronWarrior/ChatGPT-2DPhysics) <img src="https://img.shields.io/github/stars/IronWarrior/ChatGPT-2DPhysics?style=social"/> : This repository contains a simple 2D Physics engine in C#, with code written by ChatGPT. It uses the console for graphics.
+
     - [PolarisAI](https://github.com/MeiFagundes/PolarisAI) <img src="https://img.shields.io/github/stars/MeiFagundes/PolarisAI?style=social"/> : Personal Assistant Engine built with ML.NET. 
 
     - [Stanford.NLP.NET](https://github.com/sergey-tihon/Stanford.NLP.NET) <img src="https://img.shields.io/github/stars/sergey-tihon/Stanford.NLP.NET?style=social"/> : Stanford NLP for .NET. 
