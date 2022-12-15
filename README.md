@@ -325,6 +325,11 @@
 
     - [vladkol/CustomVision.COCO](https://github.com/vladkol/CustomVision.COCO) <img src="https://img.shields.io/github/stars/vladkol/CustomVision.COCO?style=social"/> : Traning Azure [Custom Vision](https://www.customvision.ai/) projects using [COCO](https://cocodataset.org/) dataset.
 
+    - [aliardan/RoadMarkingDetection](https://github.com/aliardan/RoadMarkingDetection) <img src="https://img.shields.io/github/starsaliardan/RoadMarkingDetection?style=social"/> : Road markings detection using yolov5 model based on ONNX.
+
+
+
+
 
   - ### Face Detection
 
