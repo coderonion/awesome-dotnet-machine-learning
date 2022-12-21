@@ -118,6 +118,8 @@
 
     - [Silk.NET](https://github.com/dotnet/Silk.NET) <img src="https://img.shields.io/github/stars/dotnet/Silk.NET?style=social"/> : The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, and DirectX bindings library your mother warned you about. 
 
+    - [Vortice.Vulkan](https://github.com/amerkoleci/Vortice.Vulkan) <img src="https://img.shields.io/github/stars/amerkoleci/Vortice.Vulkan?style=social"/> : Cross platform .NET bindings for Vulkan, VMA, SPIRV-Cross and shaderc.
+
     - [OpenTK](https://github.com/opentk/opentk) <img src="https://img.shields.io/github/stars/opentk/opentk?style=social"/> : The Open Toolkit library is a fast, low-level C# wrapper for OpenGL, OpenAL & OpenCL. It also includes windowing, mouse, keyboard and joystick input and a robust and fast math library, giving you everything you need to write your own renderer or game engine. OpenTK can be used standalone or inside a GUI on Windows, Linux, Mac. 
 
     - [ComputeSharp](https://github.com/Sergio0694/ComputeSharp) <img src="https://img.shields.io/github/stars/Sergio0694/ComputeSharp?style=social"/> : A .NET library to run C# code in parallel on the GPU through DX12, D2D1 and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
@@ -129,6 +131,12 @@
     - [ManagedCUDA](https://github.com/kunzmi/managedCuda) <img src="https://img.shields.io/github/stars/kunzmi/managedCuda?style=social"/> : ManagedCUDA aims an easy integration of NVidia's CUDA in .net applications written in C#, Visual Basic or any other .net language. 
 
     - [Amplifier.NET](https://github.com/deepakkumar1984/Amplifier.NET) <img src="https://img.shields.io/github/stars/deepakkumar1984/Amplifier.NET?style=social"/> : Amplifier allows .NET developers to easily run complex applications with intensive mathematical computation on Intel CPU/GPU, NVIDIA, AMD without writing any additional C kernel code. Write your function in .NET and Amplifier will take care of running it on your favorite hardware.  
+
+    - [vk](https://github.com/mellinoe/vk) <img src="https://img.shields.io/github/stars/mellinoe/vk?style=social"/> : Low-level Vulkan bindings for .NET.
+
+    - [VulkanCore](https://github.com/discosultan/VulkanCore) <img src="https://img.shields.io/github/stars/discosultan/VulkanCore?style=social"/> : Vulkan 1.0 graphics and compute API bindings for .NET Standard.
+
+
 
 
   - ### Image and Video Processing
