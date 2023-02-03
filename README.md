@@ -263,6 +263,8 @@
 
     - [mentalstack/yolov5-net](https://github.com/mentalstack/yolov5-net) <img src="https://img.shields.io/github/stars/mentalstack/yolov5-net?style=social"/> : YOLOv5 object detection with C#, ML.NET, ONNX.
 
+    - [sstainba/YoloNet](https://github.com/sstainba/YoloNet) <img src="https://img.shields.io/github/stars/sstainba/YoloNet?style=social"/> : A .net 6 implementation to use Yolov5 and Yolov8 models via the ONNX Runtime.
+    
     - [ivilson/Yolov7net](https://github.com/ivilson/Yolov7net) <img src="https://img.shields.io/github/stars/ivilson/Yolov7net?style=social"/> : Yolov7 Detector for .Net 6.
 
     - [sangyuxiaowu/ml_yolov7](https://github.com/sangyuxiaowu/ml_yolov7) <img src="https://img.shields.io/github/stars/sangyuxiaowu/ml_yolov7?style=social"/> : ML.NET Yolov7. "微信公众号「桑榆肖物」《[YOLOv7 在 ML.NET 中使用 ONNX 检测对象](https://mp.weixin.qq.com/s/vXz6gavYJR2mh5KuJO_slA)》"
