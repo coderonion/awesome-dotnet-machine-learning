@@ -357,6 +357,10 @@
 
     - [mesutpiskin/face-detection-and-recognition](https://github.com/mesutpiskin/face-detection-and-recognition) <img src="https://img.shields.io/github/stars/mesutpiskin/face-detection-and-recognition?style=social"/> : C# Face detection and recognition with EmguCV. Eigenfaces, Fisherfaces and LBPH algorithms.
 
+    - [georg-jung/FaceAiSharp](https://github.com/georg-jung/FaceAiSharp) <img src="https://img.shields.io/github/stars/georg-jung/FaceAiSharp?style=social"/> : State-of-the-art face detection and face recoginition. Cross-platform, local, no cloud dependencies, MIT-licensed, onnx-based.
+
+    - [georgj-jung/ExplainFaceRecognition](https://github.com/georg-jung/explain-face-rec) - <img src="https://img.shields.io/github/stars/georg-jung/explain-face-rec?style=social"/> Beginner friendly interactive face detection & recognition tutorial with hands-on code samples. State-of-the-art local face AI showcase. Blazor Server & Hybrid - Web, Windows, Android.
+
 
   - ### Game Field
 
