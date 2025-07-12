@@ -249,6 +249,8 @@
   - ### Object Classification
 
     - [doughtmw/HoloLens2-Machine-Learning](https://github.com/doughtmw/HoloLens2-Machine-Learning) <img src="https://img.shields.io/github/stars/doughtmw/HoloLens2-Machine-Learning?style=social"/> : Using deep learning models for image classification directly on the HoloLens 2. 
+ 	
+    - [ML.NET.Classifier](https://github.com/Bgajski/ML.NET.Classifier) - ML.NET binary and textual classification application with data preparation, training, testing, and performance evaluation.
 
     - [NsfwSpy](https://github.com/d00ML0rDz/NsfwSpy) <img src="https://img.shields.io/github/stars/d00ML0rDz/NsfwSpy?style=social"/> : A .NET image and video classifier used to identify explicit/pornographic content written in C#.  
 
