@@ -73,6 +73,7 @@
 
   - [MLOps.NET](https://github.com/aslotte/MLOps.NET) <img src="https://img.shields.io/github/stars/aslotte/MLOps.NET?style=social"/> : A machine learning model operations and management tool for ML.NET 
 
+  - [FSharp.Azure.Quantum](https://github.com/Thorium/fsharp.azure.quantum) <img src="https://img.shields.io/github/stars/Thorium/fsharp.azure.quantum?style=social"/> : Quantum Computing for .NET 
 
 - ## Tutorial
 
